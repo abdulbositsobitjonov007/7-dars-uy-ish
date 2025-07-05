@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  color: #1391CE;
+}
+.container{
+width: 1440px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+header{
+     background-color: #1391CEB2;
+     padding-top: 10px;
+     padding-bottom: 10px;
+
+}
+.logo{
+  vertical-align: middle;
+   
+}
+
+.logo1{font-size: 24px;
+    margin-top: 40px;
+    color: #25468A;
+}
+.nobar{
+display: flex;
+justify-content: space-around;
+height:150px;
+
+
+
+}
+ul{
+    display: flex;
+gap: 30px;
+margin-top: 57px;
+
+
+
+}
+ li{
+    list-style: none;
+
+}
+.color{
+   color: #14274C; 
+}
+
+a{
+text-decoration: none;
+color: aliceblue;
+
+}
+
+.docs{
+    color: aliceblue;
+}
+.download{
+    color: #14274C;
+    border-radius: 24px;
+
+}
+.card{
+    background-color: aliceblue;
+    padding: 9px 18px 9px 18px;
+}
+.main{
+  
+    color: #25468A;
+    justify-content:space-between;
+    gap: 100px;
+ 
+}
+.sarlafha{
+    color: #25468A;
+    padding-bottom: 20px;
+}
+
+  h2{font-size: 92px; 
+
+}
+   h6{font-size: 32px;
+
+color: #1391CE;}
+p{
+    
+    font-size: 20px;}
+  .navbar{ 
+    display: flex; 
+  background-color:#1391CEB2 ;
+  padding-top: 30px;
+  padding-bottom: 30px;
+gap: 100px;
+justify-content: center;
+  }
+  .download1{
+    font-size: 20px;
+    color: black;
+    padding:17px 55px 17px 55px ;
+    background-color: gold;
+    border-radius: 30px;
+    
+  }
+  .button{
+padding-top: 20px;
+
+
+display: flex;
+
+  }
+.sections{
+    display: flex;
+   text-align: center;
+padding-top: 150px;
+justify-content: center;
+  gap: 30px;
+
+}
+.line1{
+display: block;
+padding-top: 30px;
+}
+
+.maininfo{
+    height: 2273px ;
+    background-color: #E9F5FF;
+    
+}
+#idsec{
+justify-items: center;
+}
+  .card2{
+    width: 352px;
+    height:189px;
+background-color: #0061b6b2;
+color: #E9F5FF;
+padding-top: 70px;
+font-size: 22px;
+border-radius:10px ;
+  }
+.heading{
+    font-size: 36px;
+    color:#1391CE ;
+    text-align: center;
+   
+}
+    .head{
+         padding-top: 50px;
+    }
+    .next1{
+padding-top: 50px;
+display: flex;
+    }
+
+
+.nextnext{
+padding-left: 90px;
+
+}
+ .nexttext{
+padding-bottom: 30px;
+width: 400px;
+color:#4F4F4F ;
+ }  
+ .nexttext1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+ } 
+.hh6{
+    padding-bottom: 30px;
+}
+.section2{
+display: flex;
+justify-items: center;
+width: 400px;
+padding-top:100px;
+padding-right: 1050px;
+}
+.section21{
+padding-right: 90px;
+
+}
+.list{
+    display: block;
+    padding-bottom: 80px;
+    
+}
+.img1{
+   vertical-align: middle; 
+}
+
+
+.h7{
+  padding-bottom: 1px;
+  
+}
+
+.section3{display: flex;
+
+  
+    padding-top: 10px;
+justify-items: center;
+}
+.list1{
+    display: block;
+
+        
+}
+.section33{
+    width: 380px;
+    padding-left: 80px;
+   
+}
+.hh7{
+    padding-top: 30px;
+}
+footer{
+  background-color: #1391CE;
+}
+hr{
+width: 1120px;
+color: #1391CE;
+
+
+}
+.finish{
+
+justify-content: space-around;
+
+height: 144px;
+
+padding-top: 35px;
+}
+.footerer{
+display: flex;
+justify-content: space-around;
+padding-top: 25px;
+
+}
+.hhr{
+  justify-items: center;
+}
+.finisher{
+  color: #14274C;
+}
